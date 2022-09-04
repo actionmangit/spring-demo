@@ -1,4 +1,4 @@
-package com.actionman.springdoc;
+package com.actionman.apidoc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
